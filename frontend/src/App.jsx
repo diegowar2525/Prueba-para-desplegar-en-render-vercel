@@ -20,7 +20,7 @@ import {
 } from 'lucide-react';
 
 
-const API_URL = import.meta.env.VITE_API_URL || 'https://s14-trabajo-pr-ctico-experimental-4.onrender.com';
+const API_URL = import.meta.env.VITE_API_URL;
 
 function App() {
   // Authentication States
